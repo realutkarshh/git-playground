@@ -9,3 +9,4 @@ console.log("Main branch change + Feature merge");
 console.log("Main updated before rebase");
 
 console.log("Line 1 to study reset");
+console.log("Line 2 to study reset");
