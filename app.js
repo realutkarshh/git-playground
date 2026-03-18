@@ -5,3 +5,5 @@ console.log("Login feature added");
 
 console.log("Commit hygiene");
 console.log("Main branch change + Feature merge");
+
+console.log("Main updated before rebase");
