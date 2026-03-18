@@ -7,3 +7,5 @@ console.log("Commit hygiene");
 console.log("Main branch change + Feature merge");
 
 console.log("Main updated before rebase");
+
+console.log("Line 1 to study reset");
